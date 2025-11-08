@@ -4,11 +4,11 @@ const names = ["Anna", "Luca", "Marco", "Adele", "Giovanni", "Alessandra"];
 
 
 // Dichiara la funzione qui.
-function estraiIniziali (arrayNomi) {
+function estraiIniziali(arrayNomi) {
     return arrayNomi.map(nome => nome[0])
 }
 
-    
+
 
 // Invoca la funzione qui e stampa il risultato in console
 
